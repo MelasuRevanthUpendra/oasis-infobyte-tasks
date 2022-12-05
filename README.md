@@ -11,6 +11,9 @@ This is a calculator page where we can perform basic arithmetic operations like 
 Demo video:
 
 
+
+
+
 Task-2 : TRIBUTE PAGE
 
 Tribute page this page tributes to the adolf hitler.
@@ -18,6 +21,9 @@ Tribute page this page tributes to the adolf hitler.
 ![image](https://user-images.githubusercontent.com/114418446/205708849-771b87d6-561c-40d6-b82d-52e4b77c980b.png)
 
 Demo video:
+
+
+
 
 
 Task-3 : TO-DO-LIST
